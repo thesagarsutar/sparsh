@@ -1,0 +1,119 @@
+border-top-left-radius: 7px;
+border-top-right-radius: 7px;
+border-bottom-right-radius: 7px;
+border-bottom-left-radius: 7px;
+border: 1px solid rgb(35, 145, 145);
+background-color: rgb(50, 199, 174);
+font-size: 25px;
+padding: 8.333333333333334px 20.833333333333336px;
+color: rgb(255, 255, 255);
+font-weight: bold;
+text-shadow: rgb(173, 173, 173) 1px 1px 1px;
+
+
+
+border-top-left-radius: 7px;
+
+
+border-top-right-radius: 7px;
+border-bottom-right-radius: 7px;
+border-bottom-left-radius: 7px;
+font-size: 33px;
+padding: 11px 27.5px;
+border: 4px solid rgb(105, 140, 120);
+background-color: rgb(132, 176, 150);
+color: rgb(247, 247, 247);
+
+
+border: 1px solid rgb(0, 35, 48);
+border-top-left-radius: 8px;
+border-top-right-radius: 8px;
+border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px;
+color: rgb(255, 255, 255);
+font-size: 26px;
+font-style: normal;
+text-shadow: rgb(173, 173, 173) 1px 1px 1px;
+padding: 8.666666666666666px 21.666666666666668px;
+box-shadow: rgb(255, 255, 255) 0px 0px 1px 0px inset, rgb(38, 41, 43) 0px 0px 3px 0px, rgb(0, 88, 159) 0px -1px 1px 0px inset;
+background-image: linear-gradient(rgb(0, 155, 212) 1%, rgb(0, 117, 212) 100%);
+
+
+/*blue default*/
+element.style {
+border: 1px solid rgb(0, 58, 94);
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+border-bottom-left-radius: 5px;
+color: rgb(255, 255, 255);
+font-size: 26px;
+font-style: normal;
+text-shadow: rgb(173, 173, 173) 1px 1px 1px;
+padding: 8.666666666666666px 21.666666666666668px;
+box-shadow: rgb(255, 255, 255) 0px 0px 1px 0px inset, rgb(38, 41, 43) 0px 0px 3px 0px, rgb(0, 88, 159) 0px -1px 1px 0px inset;
+background-image: linear-gradient(rgb(0, 177, 242) 1%, rgb(0, 117, 212) 100%);
+background-position: initial initial;
+background-repeat: initial initial;
+}
+
+body background-color: rgb(54, 71, 68);
+
+
+/*green gb*/
+body{
+background:#3C7554;
+}
+
+button {
+   outline : none;
+   cursor : pointer;
+   font-family : OpenSansRegular;
+   -webkit-transition-duration : 200ms;
+   -moz-transition-duration : 200ms;
+   transition-duration : 200ms;
+}
+button:hover {
+   background : #00a2ce; /*  Old browsers */
+   background : -moz-linear-gradient(top, #00a2ce 1%, #00a2ce 100%); /* FF3.6+ */
+   background : -webkit-gradient(linear, left top, left bottom, color-stop(1%, #00a2ce), color-stop(100%, #00a2ce)); /* Chrome,Safari4+ */
+   background : -webkit-linear-gradient(top, #00a2ce 1%, #00a2ce 100%); /* Chrome10+,Safari5.1+ */
+   background : -o-linear-gradient(top, #00a2ce 1%, #00a2ce 100%); /* Opera 11.10+ */
+   background : -ms-linear-gradient(top, #00a2ce 1%, #00a2ce 100%); /* IE10+ */
+   background : linear-gradient(to bottom, #00a2ce 1%, #00a2ce 100%); /* W3C */
+   background : filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00a2ce', endColorstr='#00a2ce',GradientType=0 ); /* IE6-9 */
+}
+button:active {
+   -webkit-box-shadow : 0 0 1px 0 #fff inset,  0 3px 15px 0 #004c61 inset;
+   -moz-box-shadow : 0 0 1px 0 #fff inset,  0 3px 15px 0 #004c61 inset;
+   box-shadow : 0 0 1px 0 #fff inset,  0 3px 15px 0 #004c61 inset;
+}
+button:disabled {
+   opacity : 0.5;
+   cursor : no-drop;
+}
+button {
+   border : 1px #005e73 solid;
+   -webkit-border-radius : 5px;
+   -moz-border-radius : 5px;
+   border-radius : 5px;
+   color : #ffffff;
+   font-size : 21px;
+   font-style : normal;
+   padding : 7px 18px;
+   -webkit-box-shadow : 0 0 1px 0 #fff inset,  0 0 3px 0 #222629 ,  0 -1px 1px 0 #006f9f inset;
+   -moz-box-shadow : 0 0 1px 0 #fff inset,  0 0 3px 0 #222629 ,  0 -1px 1px 0 #006f9f inset;
+   box-shadow : 0 0 1px 0 #fff inset,  0 0 3px 0 #222629 ,  0 -1px 1px 0 #006f9f inset;
+   background : #00bef2; /*  Old browsers */
+   background : -moz-linear-gradient(top, #00bef2 1%, #0094d4 100%); /* FF3.6+ */
+   background : -webkit-gradient(linear, left top, left bottom, color-stop(1%, #00bef2), color-stop(100%, #0094d4)); /* Chrome,Safari4+ */
+   background : -webkit-linear-gradient(top, #00bef2 1%, #0094d4 100%); /* Chrome10+,Safari5.1+ */
+   background : -o-linear-gradient(top, #00bef2 1%, #0094d4 100%); /* Opera 11.10+ */
+   background : -ms-linear-gradient(top, #00bef2 1%, #0094d4 100%); /* IE10+ */
+   background : linear-gradient(to bottom, #00bef2 1%, #0094d4 100%); /* W3C */
+   background : filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00bef2', endColorstr='#0094d4',GradientType=0 ); /* IE6-9 */
+}
+
+test
+another test
+best color for word 'correct' #27b074
