@@ -13,3 +13,8 @@ Designer/Developer can create their own set of UI components
 3. Option Buttons - In progress
 4. Text Boxes - In progress
 5. ...many more
+
+
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
